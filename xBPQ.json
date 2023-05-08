@@ -1,10 +1,10 @@
 {
-"菜妮丝https://cainisi.cf":" ",
+"菜妮丝":"https://cainisi.cf",
 "友情提醒": "本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除",
 
 "sites":[
 {"key":"360影视","name":"360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/360影视.json"},
-{"key":"布蕾影城","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://movie.bulei.cc$$$login$$$sdlw1111$$$qqaa1122"},
+{"key":"布蕾影城","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://v.ilime.cc$$$login$$$sdlw1111$$$qqaa1122"},
 {"key":"YQK_spider","name":"一起看┃影视","api":"csp_YQKAPP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"低端影视","name":"低端┃影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"两个BT","name":"两个BT┃影视","api":"csp_Bttwoo","type":3,"searchable":1,"quickSearch":1,"filterable":1},
@@ -209,6 +209,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"爱酷解析","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 {"name":"星辰云解析","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"喵喵喵","type":1,"url":"https://vip.blbo.cc:2222/api/?key=948d83dd606496051c016302259e5519&url="},
@@ -403,7 +404,7 @@
     ],
 
 //JAR
-"spider":"./jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+"spider":"./jar/fan.txt;md5;528559dc26fc8138875e8bf32f670cac",
 
 //壁纸
 "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php",

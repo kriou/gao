@@ -1,7 +1,16 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
+  "spider": "./jar/custom_spider.jar;md5;e276d142b10b9f2c2971664d0b9dc9a3",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
     {
       "key": "AList",
       "name": "AList",
@@ -79,15 +88,6 @@
       "changeable": 1
     },
     {
-      "key": "紙條",
-      "name": "紙條",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
@@ -97,10 +97,10 @@
       "changeable": 0
     },
     {
-      "key": "易搜",
-      "name": "易搜",
+      "key": "雲搜",
+      "name": "雲搜",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
@@ -115,10 +115,10 @@
       "changeable": 0
     },
     {
-      "key": "UP雲搜",
-      "name": "UP雲搜",
+      "key": "盤搜索",
+      "name": "盤搜索",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
